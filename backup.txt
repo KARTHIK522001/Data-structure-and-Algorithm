@@ -1,0 +1,47 @@
+#0;
+are;1;text1.txt;2;#-> NULL
+About;1;text1.txt;2;#-> NULL
+afternoon;1;text2.txt;2;#-> NULL
+after;1;text2.txt;2;#-> NULL
+about;1;text2.txt;2;#-> NULL
+#1;
+bye;1;text2.txt;2;#-> NULL
+book;1;text2.txt;2;#-> NULL
+#2;
+creat;1;text1.txt;2;#-> NULL
+come;1;text2.txt;2;#-> NULL
+#3;
+Dell;1;text1.txt;2;#-> NULL
+#4;
+evening;1;text2.txt;2;#-> NULL
+#6;
+Good;1;text2.txt;2;#-> NULL
+#7;
+Hello;1;text1.txt;2;#-> NULL
+hi;1;text1.txt;2;#-> NULL
+HI;1;text1.txt;2;#-> NULL
+#12;
+meet;1;text1.txt;2;#-> NULL
+mid;1;text1.txt;2;#-> NULL
+morning;1;text2.txt;2;#-> NULL
+#13;
+nice;1;text1.txt;2;#-> NULL
+note;1;text2.txt;2;#-> NULL
+#15;
+ping;1;text1.txt;2;#-> NULL
+pen;1;text2.txt;2;#-> NULL
+pencil;1;text2.txt;2;#-> NULL
+python;1;text3.txt;1;#-> NULL
+#18;
+see;1;text2.txt;2;#-> NULL
+soon;1;text2.txt;2;#-> NULL
+#19;
+to;1;text1.txt;2;#-> NULL
+#20;
+uber;1;text3.txt;1;#-> NULL
+#22;
+world;1;text1.txt;2;#-> NULL
+wards;1;text2.txt;2;#-> NULL
+wellcome;1;text3.txt;1;#-> NULL
+#24;
+you;2;text1.txt;4;#text2.txt;2;#-> NULL
